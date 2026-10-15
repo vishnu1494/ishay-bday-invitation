@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#ffe1ee"/>
+  <circle cx="200" cy="170" r="110" fill="#ff5a6e"/>
+  <circle cx="200" cy="170" r="90" fill="#5cc96e"/>
+  <circle cx="200" cy="170" r="72" fill="#fffaf0"/>
+  <circle cx="170" cy="155" r="5" fill="#2a1f1f"/>
+  <circle cx="230" cy="155" r="5" fill="#2a1f1f"/>
+  <path d="M175 195 Q200 215 225 195" stroke="#2a1f1f" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="200" y="330" text-anchor="middle" font-family="Baloo 2, sans-serif" font-size="22" font-weight="700" fill="#e8435a">Add images/baby1.jpg</text>
+</svg>
